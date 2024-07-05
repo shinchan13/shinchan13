@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shinchan13
 - 👀 I’m interested in basketball, swimming, technology, and the future.
-- 🌱 I’m currently learning k8s.
+- 🌱 I’m currently learning k8s.My main research focus lies in sentiment analysis and deep learning.
 - 💞️ I’m looking to collaborate on 🤔
 - 📫 How to reach me: 1185356966@qq.com
 
